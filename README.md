@@ -1,3 +1,3 @@
 # 我的个人博客
 
-[moliyingjiang.github.io](https://moliyingjiang.github.io/)
+[yj-moli.gitee.io/blog](https://yj-moli.gitee.io/blog/)
